@@ -1,0 +1,22 @@
+{
+  "name": "fetchos",
+  "version": "1.0.0",
+  "description": "fetch wrapper",
+  "main": "fetch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Emil-OS/fetchOS.git"
+  },
+  "keywords": [
+    "fetch"
+  ],
+  "author": "emil @emilknudsen1@live.dk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Emil-OS/fetchOS/issues"
+  },
+  "homepage": "https://github.com/Emil-OS/fetchOS#readme"
+}
