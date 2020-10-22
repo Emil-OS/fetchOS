@@ -1,0 +1,32 @@
+{
+    "products": [
+        {
+            "name": "Venum Gloves",
+            "brand": "Venum",
+            "description": "Best quality gloves, solid and comfort.",
+            "weight": "10 OZ, 12 OZ, 14 OZ, 16 OZ",
+            "price": "84.95$"
+        },
+        {
+            "name": "Everlast Gloves",
+            "brand": "Everlast",
+            "description": "High quality leather",
+            "weight": "12 OZ, 14 OZ, 16 OZ",
+            "price": "159.95$"
+        },
+        {
+            "name": "Adidas Gloves",
+            "brand": "Adidas",
+            "description": "Multi layered moulded foam",
+            "weight": "12 OZ, 14 OZ",
+            "price": "99.99$"
+        },
+        {
+            "name": "Cleto Reyes Gloves",
+            "brand": "Cleto Reyes",
+            "description": "Hand made in Mexico from quality leather",
+            "weight": "12 OZ, 14 OZ, 16 OZ, 18 OZ",
+            "price": "185.99$"
+        }
+    ]
+}
